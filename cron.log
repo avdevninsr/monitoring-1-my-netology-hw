@@ -1,0 +1,180 @@
+[2026-09-27 17:50:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 345606
+  Memory: 17.1% used (839MB / 4913MB)
+  Load: 0.02, 0.19, 0.3
+  Processes: 145
+  Disks: sda
+  Network interfaces: docker0, veth947fd46, vethdc98622, vethbd0544b, veth624b60e, veth63df976, enp0s8, br-fdf35d2f3d2b
+[2026-09-27 18:00:02] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 350152
+  Memory: 17.1% used (840MB / 4913MB)
+  Load: 1.14, 0.41, 0.28
+  Processes: 147
+  Disks: sda
+  Network interfaces: veth624b60e, enp0s8, docker0, veth63df976, vethbd0544b, vethdc98622, veth947fd46, br-fdf35d2f3d2b
+[2026-09-27 18:10:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 353887
+  Memory: 17.0% used (837MB / 4913MB)
+  Load: 0.06, 0.1, 0.17
+  Processes: 145
+  Disks: sda
+  Network interfaces: veth947fd46, vethbd0544b, docker0, vethdc98622, veth624b60e, veth63df976, enp0s8, br-fdf35d2f3d2b
+[2026-09-27 18:20:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 356768
+  Memory: 17.2% used (844MB / 4913MB)
+  Load: 0.25, 0.07, 0.1
+  Processes: 145
+  Disks: sda
+  Network interfaces: docker0, enp0s8, vethbd0544b, veth63df976, veth947fd46, br-fdf35d2f3d2b, veth624b60e, vethdc98622
+[2026-09-27 18:30:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 359559
+  Memory: 17.1% used (838MB / 4913MB)
+  Load: 0.01, 0.08, 0.09
+  Processes: 148
+  Disks: sda
+  Network interfaces: enp0s8, docker0, veth624b60e, veth947fd46, vethdc98622, veth63df976, br-fdf35d2f3d2b, vethbd0544b
+[2026-09-27 18:40:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 362965
+  Memory: 17.0% used (835MB / 4913MB)
+  Load: 0.06, 0.06, 0.07
+  Processes: 145
+  Disks: sda
+  Network interfaces: br-fdf35d2f3d2b, veth947fd46, enp0s8, veth624b60e, vethdc98622, vethbd0544b, veth63df976, docker0
+[2026-09-27 18:50:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 366977
+  Memory: 17.0% used (836MB / 4913MB)
+  Load: 0.03, 0.08, 0.08
+  Processes: 145
+  Disks: sda
+  Network interfaces: br-fdf35d2f3d2b, veth947fd46, vethdc98622, docker0, enp0s8, veth624b60e, veth63df976, vethbd0544b
+[2026-09-27 19:00:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 371186
+  Memory: 17.0% used (836MB / 4913MB)
+  Load: 1.1, 0.28, 0.13
+  Processes: 148
+  Disks: sda
+  Network interfaces: vethdc98622, vethbd0544b, veth63df976, enp0s8, docker0, veth947fd46, veth624b60e, br-fdf35d2f3d2b
+[2026-09-27 19:10:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 375230
+  Memory: 17.1% used (838MB / 4913MB)
+  Load: 0.09, 0.3, 0.31
+  Processes: 144
+  Disks: sda
+  Network interfaces: br-fdf35d2f3d2b, enp0s8, veth947fd46, vethdc98622, veth624b60e, vethbd0544b, docker0, veth63df976
+[2026-09-27 19:20:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 379317
+  Memory: 17.2% used (843MB / 4913MB)
+  Load: 0.03, 0.08, 0.17
+  Processes: 145
+  Disks: sda
+  Network interfaces: veth63df976, vethdc98622, veth947fd46, veth624b60e, docker0, br-fdf35d2f3d2b, enp0s8, vethbd0544b
+[2026-09-27 19:30:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 383063
+  Memory: 17.2% used (843MB / 4913MB)
+  Load: 0.1, 0.14, 0.17
+  Processes: 148
+  Disks: sda
+  Network interfaces: vethdc98622, veth63df976, br-fdf35d2f3d2b, enp0s8, vethbd0544b, docker0, veth624b60e, veth947fd46
+[2026-09-27 19:40:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 387059
+  Memory: 17.1% used (839MB / 4913MB)
+  Load: 0.04, 0.08, 0.12
+  Processes: 144
+  Disks: sda
+  Network interfaces: vethbd0544b, vethdc98622, veth947fd46, docker0, enp0s8, veth63df976, br-fdf35d2f3d2b, veth624b60e
+[2026-09-27 19:50:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 390133
+  Memory: 16.9% used (831MB / 4913MB)
+  Load: 0.21, 0.1, 0.1
+  Processes: 144
+  Disks: sda
+  Network interfaces: veth63df976, veth624b60e, docker0, veth947fd46, vethdc98622, enp0s8, vethbd0544b, br-fdf35d2f3d2b
+[2026-09-27 20:00:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 392923
+  Memory: 17.0% used (834MB / 4913MB)
+  Load: 0.0, 0.02, 0.05
+  Processes: 147
+  Disks: sda
+  Network interfaces: br-fdf35d2f3d2b, veth63df976, veth947fd46, veth624b60e, vethbd0544b, docker0, vethdc98622, enp0s8
+[2026-09-27 20:10:02] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 395490
+  Memory: 17.0% used (835MB / 4913MB)
+  Load: 0.01, 0.02, 0.04
+  Processes: 144
+  Disks: sda
+  Network interfaces: veth624b60e, vethbd0544b, enp0s8, vethdc98622, docker0, veth63df976, br-fdf35d2f3d2b, veth947fd46
+[2026-09-27 20:20:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 398084
+  Memory: 17.0% used (837MB / 4913MB)
+  Load: 0.0, 0.0, 0.0
+  Processes: 144
+  Disks: sda
+  Network interfaces: veth63df976, enp0s8, vethbd0544b, veth947fd46, docker0, br-fdf35d2f3d2b, vethdc98622, veth624b60e
+[2026-09-27 20:30:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 400689
+  Memory: 17.0% used (835MB / 4913MB)
+  Load: 0.15, 0.08, 0.01
+  Processes: 147
+  Disks: sda
+  Network interfaces: veth63df976, br-fdf35d2f3d2b, veth947fd46, enp0s8, vethbd0544b, vethdc98622, veth624b60e, docker0
+[2026-09-27 20:40:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 403183
+  Memory: 16.9% used (832MB / 4913MB)
+  Load: 0.0, 0.01, 0.0
+  Processes: 145
+  Disks: sda
+  Network interfaces: enp0s8, docker0, br-fdf35d2f3d2b, veth947fd46, veth63df976, vethdc98622, vethbd0544b, veth624b60e
+[2026-09-27 20:50:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 405649
+  Memory: 17.0% used (834MB / 4913MB)
+  Load: 0.41, 0.55, 0.32
+  Processes: 144
+  Disks: sda
+  Network interfaces: veth947fd46, veth624b60e, enp0s8, vethbd0544b, veth63df976, docker0, vethdc98622, br-fdf35d2f3d2b
+[2026-09-27 21:00:01] ✓ Метрики сохранены
+  Файл: /home/tankist/mon_hw_1_logs/26-09-27-ubuntu-monitoring.log
+  Hostname: ubuntu
+  CPU active: 408251
+  Memory: 16.9% used (830MB / 4913MB)
+  Load: 0.0, 0.1, 0.19
+  Processes: 148
+  Disks: sda
+  Network interfaces: vethdc98622, veth947fd46, vethbd0544b, enp0s8, veth624b60e, docker0, veth63df976, br-fdf35d2f3d2b
